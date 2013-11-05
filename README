@@ -1,0 +1,7 @@
+Uses the old Google Earth COM interface and a telnet connection in order
+to pipe the virtual location of your camera inside of google maps to 
+an android emulator.
+
+This was used to virtually test an application with a number of geofences.
+
+Google Earth has since switched to a JavaScript API
